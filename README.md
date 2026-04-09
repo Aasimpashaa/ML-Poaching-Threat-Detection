@@ -192,6 +192,5 @@ Cost	CPU-only	Ranger outpost deployable
 
 
 ## My Contribution
-- Implemented feature extraction pipeline
-- Performed data preprocessing and feature selection
-- Improved model input quality
+- Implemented feature extraction techniques to derive new meaningful features
+- Performed feature selection to identify important variables
