@@ -189,3 +189,9 @@ False Negatives	17.58%	Low missed threats
 Inference Speed	<1ms	Real-time alerts
 Scalability	Millions/day	Forest-wide coverage
 Cost	CPU-only	Ranger outpost deployable
+
+
+## My Contribution
+- Implemented feature extraction pipeline
+- Performed data preprocessing and feature selection
+- Improved model input quality
